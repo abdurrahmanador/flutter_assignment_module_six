@@ -1,16 +1,7 @@
 # flutter_assignment_module_six
 
-A new Flutter project.
+Assignment by Abdur Rahman
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/abdurrahmanador/flutter_assignment_module_six/blob/master/Screenshot_2023-06-12-23-53-28-473_com.example.flutter_assignment_module_six%20(1).jpg", height=300 width=200>
